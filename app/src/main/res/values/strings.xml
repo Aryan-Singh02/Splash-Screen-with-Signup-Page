@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SplashScreenWithSignup</string>
+    <string name="password">password</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="login">LOGIN</string>
+    <string name="welcome_to_ipd">welcome to IPD</string>
+</resources>
